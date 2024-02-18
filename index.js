@@ -21,3 +21,7 @@ console.log('basename without extension >',baseNameWithoutExt)
 let dirName = path.dirname(currentFilePath)
 console.log('dirName >',dirName)
 
+
+//**********Lecture 2 (built in function module(Node-js)************* **/
+
+
